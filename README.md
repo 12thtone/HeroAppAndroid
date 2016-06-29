@@ -1,2 +1,1 @@
 # HeroAppAndroid
-# hero-app
